@@ -795,6 +795,12 @@ p.note{
     display:inline-block;
 	cursor:pointer;
 }
+.social-icons li.contact {
+	background: url(../images/icon-1.png) no-repeat 0px -29px;
+}
+.social-icons li.contact:hover {
+	background: url(../images/icon-1.png) no-repeat 0px 0px;
+}
 .social-icons li.facebook {
 	background:url(../images/icon-2.png) no-repeat 0px  -29px;
 }
@@ -812,12 +818,6 @@ p.note{
 }
 .social-icons li.googleplus:hover {
 	background:url(../images/icon-4.png) no-repeat 0px  0px;
-}
-.social-icons li.contact {
-	background:url(../images/icon-1.png) no-repeat 0px  -29px;
-}
-.social-icons li.contact:hover {
-	background:url(../images/icon-1.png) no-repeat 0px  0px;
 }
  .copy_right{
 	text-align:center;

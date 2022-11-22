@@ -5,14 +5,14 @@
             <div class="col_1_of_4 span_1_of_4">
                 <h4>Information</h4>
                 <ul>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Customer Service</a></li>
-                    <li><a href="#"><span>Advanced Search</span></a></li>
-                    <li><a href="#">Orders and Returns</a></li>
-                    <li><a href="#"><span>Contact Us</span></a></li>
+                    <li><a href="aboutus.php">About Us</a></li>
+                    <!-- <li><a href="#">Customer Service</a></li> -->
+                    <!-- <li><a href="#"><span>Advanced Search</span></a></li> -->
+                    <!-- <li><a href="#">Orders and Returns</a></li> -->
+                    <li><a href="contact.php"><span>Contact Us</span></a></li>
                 </ul>
             </div>
-            <div class="col_1_of_4 span_1_of_4">
+            <!-- <div class="col_1_of_4 span_1_of_4">
                 <h4>Why buy from us</h4>
                 <ul>
                     <li><a href="about.html">About Us</a></li>
@@ -21,7 +21,7 @@
                     <li><a href="contact.html"><span>Site Map</span></a></li>
                     <li><a href="preview.html"><span>Search Terms</span></a></li>
                 </ul>
-            </div>
+            </div> -->
             <div class="col_1_of_4 span_1_of_4">
                 <h4>My account</h4>
                 <ul>
@@ -29,7 +29,7 @@
                     <li><a href="cart.php">View Cart</a></li>
                     <li><a href="wishlist.php">My Wishlist</a></li>
                     <li><a href="orderdetails.php">Track My Order</a></li>
-                    <li><a href="#">Help</a></li>
+                    <!-- <li><a href="#">Help</a></li> -->
                 </ul>
             </div>
             <div class="col_1_of_4 span_1_of_4">
@@ -41,15 +41,17 @@
                 <div class="social-icons">
                     <h4>Follow Us</h4>
                     <ul>
-                        <li class="facebook"><a href="https://www.facebook.com/" target="_blank"> </a></li>
-                        <li class="twitter"><a href="https://twitter.com/home/" target="_blank"> </a></li>
+                        <li class="facebook"><a href="#" target="_blank"> </a></li>
+                        <li class="twitter"><a href="#" target="_blank"> </a></li>
+                        <li class="googleplus"><a href="#" target="_blank"> </a></li>
+                        <li class="contact"><a href="#" target="_blank"> </a></li>
                         <div class="clear"></div>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="copy_right">
-            <p>@All rights Reseverd </p>
+            <p> &copy; All rights Reseverd </p>
         </div>
     </div>
 </div>

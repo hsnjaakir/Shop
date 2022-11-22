@@ -52,7 +52,7 @@ header("Cache-Control: max-age=2592000");
                 </div>
                 <div class="floatleft middle">
                     <h1>Online Store BD</h1>
-                    <p>www.jakir0613@gmail.com</p>
+                    <!-- <p>www.jakir0613@gmail.com</p> -->
                 </div>
                 <div class="floatright">
                     <div class="floatleft">
